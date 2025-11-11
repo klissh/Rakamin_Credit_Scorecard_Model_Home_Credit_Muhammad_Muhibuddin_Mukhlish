@@ -92,7 +92,7 @@ Berdasarkan wawasan dan hasil model, berikut adalah rekomendasi yang dapat ditin
 
 1.  **Clone Repositori:**
     ```bash
-    git clone [https://github.com/USERNAME/REPOSITORY-NAME.git](https://github.com/USERNAME/REPOSITORY-NAME.git)
+    git clone [https://github.com/klissh/Rakamin_Credit_Scorecard_Model_Home_Credit_Muhammad_Muhibuddin_Mukhlish.git)
     cd REPOSITORY-NAME
     ```
 
@@ -107,12 +107,6 @@ Berdasarkan wawasan dan hasil model, berikut adalah rekomendasi yang dapat ditin
 
 4.  **Dataset:**
     Pastikan file `application_train.csv` berada di direktori yang sama atau sesuaikan path file di dalam notebook.
-
-## Penulis
-
-* [cite_start]**Muhammad Muhibuddin Mukhlish** [cite: 1]
-    * [Link LinkedIn Anda]
-    * [Link GitHub Anda]
 
 ## Ucapan Terima Kasih
 
